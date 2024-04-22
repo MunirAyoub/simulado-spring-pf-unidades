@@ -3,6 +3,7 @@ package br.com.fiap.simuladospringpfunidades.entity;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
+//MANY TO ONE EM TODAS AS ENTIDADES
 @Getter
 @AllArgsConstructor
 public enum Tipo {
